@@ -1,2 +1,2 @@
 # Whatsapp-web-clone
-Sinple front-end chat app with contacts and conversations stored in local storage
+Sinple chat app with contacts and conversations stored in local storage using React.js and node.js.
